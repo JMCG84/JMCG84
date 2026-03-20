@@ -4,7 +4,7 @@
 
 Desarrollador web con pasión por crear aplicaciones útiles y con buen diseño. Después de 16 años como fisioterapeuta, hice el salto al desarrollo web y ahora combino mi experiencia resolviendo problemas reales con código limpio y eficiente.
 
-## 🚀 Proyectos Destacados
+##  Proyectos Destacados
 
 ### [La Gasolinera Más Barata](https://github.com/JMCG84/lagasolinamasbarata)
 Herramienta para encontrar las gasolineras más baratas cerca de ti con datos en tiempo real del Ministerio de Industria.
