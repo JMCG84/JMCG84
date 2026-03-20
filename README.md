@@ -56,7 +56,7 @@ Aplicación de trivia interactiva con diferentes categorías y niveles de dificu
 
 -  LinkedIn: [José Manuel Campos](https://www.linkedin.com/in/tu-usuario-linkedin)
 -  Portfolio: [jcampos-dev.vercel.app](https://jcampos-dev.vercel.app)
--  Email: tu-email@example.com
+-  Email: jmcg84@icloud.com
 
 ---
 
