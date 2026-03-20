@@ -39,10 +39,6 @@ Aplicación de trivia interactiva con diferentes categorías y niveles de dificu
 - Node.js & Express
 - Testing (Vitest)
 
-##  GitHub Stats
-
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=JMCG84&show_icons=true&theme=radical)
-
 ##  Experiencia
 
 - **Frontend Developer** @ ALTEN Spain (Oct-Dec 2025)
